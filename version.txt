@@ -1,1 +1,3 @@
-ntb2
+A1CDE,ntb1,firmware_A.bin
+FGHIJ,ntb5,firmware_B.bin
+KLMNO,ntb3,firmware_C.bin

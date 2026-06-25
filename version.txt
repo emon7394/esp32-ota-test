@@ -1,3 +1,4 @@
 A1CDE,ntb1,firmware_A.bin
 FGHIJ,ntb5,firmware_B.bin
 KLMNO,ntb3,firmware_C.bin
+BDO250601,ntb1,ntb1.bin

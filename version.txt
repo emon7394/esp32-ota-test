@@ -3,4 +3,4 @@ BDO02,ntb1,ntb1.bin
 NVK01,ntb1,ntb1.bin
 EXP1,omp1,omp1.bin
 SKB01,omp1,omp1.bin
-EXP02,omp1,omp1.bin
+EXP02,omp1.2,omp1.2.bin

@@ -2,4 +2,5 @@ BDO01,ntb1.2,ntb1.2.bin
 RBI01,ntb1.2,ntb1.2.bin
 BDO02,ntb1,ntb1.bin
 SKB01,omp1,omp1.bin
+AAN01,ntb1.2,ntb1.2.bin
 

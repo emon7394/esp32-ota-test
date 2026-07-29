@@ -3,6 +3,6 @@ RBI01,ntb1.2,ntb1.2.bin
 BDO02,ntb1,ntb1.bin
 AAN01,ntb2.0,ntb2.0.bin
 NIS01,omp2.0,omp2.0.bin
-SIB01,omp2.0,omp2.0.bin
+SIB01,ntb2.0,ntb2.0.bin
 CST01,ntb2.0,ntb2.0.bin
 

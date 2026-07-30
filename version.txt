@@ -6,5 +6,5 @@ BDO01,ntb1.2,ntb1.2.bin
 RBI01,ntb1.2,ntb1.2.bin
 AAN01,ntb2.1,ntb2.1.bin
 
-CST01,ntb2.1,ntb2.1.bin
+CST01,omp2.1,omp2.1.bin
 

@@ -7,5 +7,5 @@ AAN01,ntb2.1,ntb2.1.bin
 
 RIB01,ntbg1.0,ntbg1.0.bin
 
-CST01,omph1.0,omph1.0.bin
+CST01,ntbg1.0,ntbg1.0.bin
 

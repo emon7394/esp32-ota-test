@@ -1,9 +1,9 @@
 NIS01,omph1.0,omph1.0.bin
 SIB01,omph1.0,omph1.0.bin
+RBI01,omph1.0,omph1.0.bin
 
 BDO02,ntb1,ntb1.bin
 
-RBI01,ntbg1.0,ntbg1.0.bin
 AAN01,ntbg1.0,ntbg1.0.bin
 RIB01,ntbg1.0,ntbg1.0.bin
 

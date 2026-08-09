@@ -8,4 +8,5 @@ AAN01,ntbg1.0,ntbg1.0.bin
 RIB01,ntbg1.0,ntbg1.0.bin
 
 CST01,ntbg1.0,ntbg1.0.bin
+CST02,ntbg1.0,ntbg1.0.bin
 

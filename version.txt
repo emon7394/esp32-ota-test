@@ -8,6 +8,7 @@ KUM01,ntbg1.0,ntbg1.0.bin
 
 AAN01,ntbg1.0,ntbg1.0.bin
 RIB01,ntbg1.0,ntbg1.0.bin
+TID01,ntbg1.0,ntbg1.0.bin
 
 
 
